@@ -2,7 +2,7 @@
 
 const express = require('express');
 const app2 = express();
-const routes = require('routes2.js');
+const routes = require('./routes2.js');
 
 app2.use('/',routes);
 
