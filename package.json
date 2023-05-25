@@ -2,7 +2,7 @@
   "name": "routepbr",
   "version": "1.0.0",
   "description": "Express routepbr",
-  "main": "thanksbot.js",
+  "main": "index.js",
   "repository": "https://github.com/render-examples/express-hello-world",
   "author": "Render Developers",
   "license": "MIT",
